@@ -1,0 +1,9 @@
+{
+  "name": "scenedeck-ppt-skill",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test scripts/validate_plan.test.mjs"
+  }
+}
